@@ -8,7 +8,7 @@ Shawns guest blog post describing describing the MVP Tree is below.
 
 It’s commonly believed that the top two reasons startups fail is because “there’s no market need” and “they ran out of cash.”  These reasons are mental gymnastics to avoid a plain truth: startups fail when they don’t build a simple solution to a problem many people have.
 
-startup_fails.png
+![startup_fails](https://user-images.githubusercontent.com/12828104/119131157-6710f980-ba39-11eb-956f-b07346f07bc6.png)
 
 Many startups fall into the trap of building toward a “mission” rather than a minimum viable product (MVP).
 

@@ -2,7 +2,7 @@
 
 Over the last two decades Shawn has seen hundreds of startups use the Lean Methodology. Many of them get hung up on understanding how to select the right minimal viable product. He came up with the concept to simply the search for product/market fit by using an MVP Tree.
 
-Shawns guest blog post describing describing the MVP Tree is below.
+Shawns guest blog post describing the MVP Tree is below.
 
 (Note that if you’re familiar with the business model canvas, Steps 1-4 below are equivalent to a visual map of the choices a founder makes as they develop a business model canvas. Step 5 and 6 leads you to selecting the right MVPs.)
 
